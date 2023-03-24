@@ -1,4 +1,4 @@
-# MZ Light Grey
+# MZ Light Grey Theme
 
 A hand crafted combination of Tolmak Gray Light theme & Atom One Light Theme.
 
