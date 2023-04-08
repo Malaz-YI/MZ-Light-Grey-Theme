@@ -1,7 +1,7 @@
 {
   "name": "mz-light-grey",
   "displayName": "MZ Light Grey Theme",
-  "description": "A hand crafted minimalistic gray theme initially inspired by Tolmak Gray Theme & Atom One Light Theme.",
+  "description": "A hand crafted, minimalistic and modern gray theme that's friendly to your eyesight.",
   "icon": "icon.png",
   "publisher": "Malaz-YI",
   "version": "2.0.0",
@@ -23,27 +23,28 @@
     "Light Theme",
     "Light Silver",
     "Minimal",
-    "Minimal Theme"
+    "Minimal Theme",
+    "MZLG"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "default",
+        "label": "MZ Soft (Default)",
         "uiTheme": "vs",
         "path": "./themes/soft.json"
       },
       {
-        "label": "with lighter highlighter",
+        "label": "MZ Soft With Light Highlighter",
         "uiTheme": "vs",
         "path": "./themes/soft - lightHighlight.json"
       },
       {
-        "label": "with darker highlighter",
+        "label": "MZ Soft With Dark Highlighter",
         "uiTheme": "vs",
         "path": "./themes/soft - darkHighlight.json"
       },
       {
-        "label": "sharp",
+        "label": "MZ Sharp (Legacy)",
         "uiTheme": "vs",
         "path": "./themes/sharp.json"
       }
