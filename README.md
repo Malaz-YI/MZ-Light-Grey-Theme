@@ -5,20 +5,21 @@ A hand crafted theme which tries to be easy on the eyes for people who struggle 
 
 For some users' convenience, this theme packs an optional line highlighter with the default soft theme, one that is brighter than the background (theme titled: "Soft With Light Highlighter") and the other option comes with a dimmer line highlighter (theme titled: "Soft With Dark Highlighter").
 
-I hope you enjoy this minimal theme and find a peace of mind - and eyes - with it!
 
+I hope you enjoy this minimal theme and find a peace of mind - and eyes - with it!
+<br>
 ---
 ## Screenshots:
 
 Soft (Default) Theme:
-![html-so](https)
-![css-so](https)
-![js-so](https)
-![php-so](https)
----
+![html-soft](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/html-soft.png)
+![css-soft](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/css-soft.png)
+![js-soft](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/js-soft.png)
+![php-soft](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/php-soft.png)
+
 
 Sharp Theme:
-![html-sh](https)
-![css-sh](https)
-![js-sh](https)
-![php-sh](https)
+![html-sharp](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/html-sharp.png)
+![css-sharp](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/css-sharp.png)
+![js-sharp](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/js-sharp.png)
+![php-sharp](https://github.com/Malaz-YI/MZ-Light-Grey-Theme/blob/main/screenshots/php-sharp.png)
