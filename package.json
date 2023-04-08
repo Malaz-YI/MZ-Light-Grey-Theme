@@ -1,10 +1,10 @@
 {
   "name": "mz-light-grey",
   "displayName": "MZ Light Grey Theme",
-  "description": "A hand crafted combination of Tolmak's Gray Theme & Atom One Light Theme.  \nAtom's tokens colors are muted for a light theme, but Tolmak's was a bit too vibrant, thus I had to blend the two color palettes and find the middle sweet spot for the 6 most prominent highlight colors (Also I got the nice-looking main blue from NetBeans Light Theme and calibrated it a bit to fit the gray background)",
+  "description": "A hand crafted minimalistic gray theme initially inspired by Tolmak Gray Theme & Atom One Light Theme.",
   "icon": "icon.png",
   "publisher": "Malaz-YI",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -21,14 +21,31 @@
 		"Gray-theme",
 		"Gray",
 		"Light Theme",
-    "Light Silver"
+    "Light Silver",
+    "Minimal",
+    "Minimal Theme"
 	],
   "contributes": {
     "themes": [
       {
-        "label": "MZ Light Grey",
+        "label": "default",
         "uiTheme": "vs",
-        "path": "./themes/MZ Light Grey-color-theme.json"
+        "path": "./themes/soft.json"
+      },
+      {
+        "label": "with lighter highlighter",
+        "uiTheme": "vs",
+        "path": "./themes/soft - lightHighlight.json"
+      },
+      {
+        "label": "with darker highlighter",
+        "uiTheme": "vs",
+        "path": "./themes/soft - darkHighlight.json"
+      },
+      {
+        "label": "sharp",
+        "uiTheme": "vs",
+        "path": "./themes/sharp.json"
       }
     ]
   }
