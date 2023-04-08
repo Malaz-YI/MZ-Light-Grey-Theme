@@ -4,7 +4,7 @@
   "description": "A hand crafted minimalistic gray theme initially inspired by Tolmak Gray Theme & Atom One Light Theme.",
   "icon": "icon.png",
   "publisher": "Malaz-YI",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -16,15 +16,15 @@
     "Themes"
   ],
   "keywords": [
-		"Grey",
-		"theme",
-		"Gray-theme",
-		"Gray",
-		"Light Theme",
+    "Grey",
+    "theme",
+    "Gray-theme",
+    "Gray",
+    "Light Theme",
     "Light Silver",
     "Minimal",
     "Minimal Theme"
-	],
+  ],
   "contributes": {
     "themes": [
       {
