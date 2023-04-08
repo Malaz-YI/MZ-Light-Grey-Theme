@@ -7,7 +7,7 @@ For some users' convenience, this theme packs an optional line highlighter with 
 
 
 I hope you enjoy this minimal theme and find a peace of mind - and eyes - with it!
-<br>
+
 ---
 ## Screenshots:
 
