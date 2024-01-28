@@ -4,7 +4,7 @@
   "description": "A hand crafted, minimalistic and modern gray theme that's friendly to your eyesight.",
   "icon": "icon.png",
   "publisher": "Malaz-YI",
-  "version": "2.3.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.76.0"
   },
