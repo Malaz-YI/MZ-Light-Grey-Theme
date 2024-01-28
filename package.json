@@ -29,17 +29,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "MZ Soft (Default)",
+        "label": "MZ_Soft (Default)",
         "uiTheme": "vs",
         "path": "./themes/soft.json"
       },
       {
-        "label": "MZ Soft With Light Highlighter",
+        "label": "MZ_Soft With Light Highlighter",
         "uiTheme": "vs",
         "path": "./themes/soft - lightHighlight.json"
       },
       {
-        "label": "MZ Soft With Dark Highlighter",
+        "label": "MZ_Soft With Dark Highlighter",
         "uiTheme": "vs",
         "path": "./themes/soft - darkHighlight.json"
       },
